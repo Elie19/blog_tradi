@@ -32,12 +32,17 @@ body {
         margin: 5px;
     }
 }
-.list{
-    display: flex;
-    padding: 5px;
-    list-style: none;
-    height: 0;
+
+.navbar-subtitle {
+    font-size: 0.8rem;  
+    font-weight: 300;   
+    margin-top: -5px;   
 }
-.list li{
-    margin-left: 9px;
+
+
+#about img {
+    max-width: 500px; 
+    height: 450px;  
+    border-radius: 50px; 
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
 }
