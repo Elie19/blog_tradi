@@ -32,3 +32,12 @@ body {
         margin: 5px;
     }
 }
+.list{
+    display: flex;
+    padding: 5px;
+    list-style: none;
+    height: 0;
+}
+.list li{
+    margin-left: 9px;
+}
